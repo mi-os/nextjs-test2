@@ -1,3 +1,5 @@
+import Head from 'next/head'
+
 <Head>
     <title>Next.js Test App</title>
     {/* <link rel="icon" href="/" /> */}
